@@ -1,0 +1,129 @@
+body {
+    background-color: #EEEEEE;
+    width: 90%;
+    height: 90%;
+    margin-top: 68px;
+    margin-right: 70px;
+    margin-left: 70px;
+    padding-bottom: 82px;
+
+}
+
+.navbar {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-between;
+    color:#212121
+
+}
+
+.navbar2 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 52px;
+
+}
+
+.namehover{
+    text-decoration: none;
+    color:#212121
+    
+
+}
+
+.namehover:hover {
+    color: #FF512F;
+    cursor: pointer;
+
+}
+
+.navbarhover2:hover {
+    color: #FF512F;
+    cursor: pointer;
+
+}
+
+.navbarhover3 {
+    color: #FF512F;
+    cursor: pointer;
+
+}
+
+span{color: #FF512F; 
+
+}
+
+#contact{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 160px;
+    padding-top: 51px;
+    color:#212121
+}
+
+h2 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 38px;
+    color: #212121;
+}
+
+.text1{
+    padding-top: 53px;
+
+}
+
+.text2{
+    max-width: 500px;
+    padding-top: 59px;
+
+    
+   
+}
+
+h3{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 38px;
+    color:#212121;
+    text-decoration: none;
+
+
+}
+
+.mail{
+    margin-bottom: 16px;
+}
+
+.line{
+    width: 100%;
+    height: 1px;
+    background-color: black;
+}
+
+a{
+    text-decoration: none;
+}
+
+#mailto:hover{
+    color: #FF512F;
+    cursor: pointer;
+
+}
+
+.linkedin{
+    max-width: 150px;
+}
+
+#linkedin{
+    text-decoration: none;
+    margin-top: 16px;
+    
+
+}
+
+#linkedin:hover{
+    color: #FF512F;
+    cursor: pointer;
+    
+
+}
